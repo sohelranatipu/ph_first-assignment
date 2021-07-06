@@ -1,5 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .flex {
@@ -103,7 +105,7 @@ body {
 
 .blog_item {
     width: 27%;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, .5);
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, .4);
     padding: 10px;
     border-radius: 25px;
     margin: 0 31px;
