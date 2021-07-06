@@ -80,3 +80,44 @@ body {
     color: white;
     font-weight: 700;
 }
+
+.recipy {
+    padding: 40px 0;
+}
+
+.recipy_title {
+    text-align: center;
+}
+
+.recipy_blog {
+    width: 100%;
+}
+
+.blog_item {
+    width: 27%;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, .5);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 0 31px;
+}
+
+.blog_item h3 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.blog_item img {
+    width: 100%;
+}
+
+.counter {
+    width: 90%;
+    margin-left: 65px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, .3);
+}
+
+.counter_item {
+    width: 32%;
+    text-align: center;
+
+}
